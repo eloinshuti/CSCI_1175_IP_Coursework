@@ -55,7 +55,8 @@
 ## **Implementing**
 ##### To run the program, the user has to enter the informantion press the submit button. When the submission is finished, the server will record the information in a table.
 
-![image](https://user-images.githubusercontent.com/112521045/205109162-e4330f6f-0c86-4578-a711-049aa445d953.png)
+![image](https://user-images.githubusercontent.com/112521045/221642013-42db219b-9b45-478e-a919-8fe807f8390e.png)
+![image](https://user-images.githubusercontent.com/112521045/221642152-17cdb0fe-cf4e-4401-9cae-553f23ef9a74.png)
 
 ## **Contributors**
 ##### Use this program using JUnit4.
